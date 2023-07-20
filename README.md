@@ -1,1 +1,1 @@
-# list-tester-golang
+# Tester for Linked List
