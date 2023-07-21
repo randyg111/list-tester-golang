@@ -1,0 +1,4 @@
+github.com/randyg111/linked-list-golang v0.0.0-20230721144422-d34f0fff5a53 h1:8fVDiNErqcDz0pb1LtmndzmsPqPreKYmg0LxENBL4Iw=
+github.com/randyg111/linked-list-golang v0.0.0-20230721144422-d34f0fff5a53/go.mod h1:FagusmNLBl9svYqNg9YdrjDVhWpENOoDOa9loF82WRk=
+golang.org/x/exp v0.0.0-20230713183714-613f0c0eb8a1 h1:MGwJjxBy0HJshjDNfLsYO8xppfqWlA5ZT9OhtUUhTNw=
+golang.org/x/exp v0.0.0-20230713183714-613f0c0eb8a1/go.mod h1:FXUEEKJgO7OQYeo8N01OfiKP8RXMtf6e8aTskBGqWdc=
